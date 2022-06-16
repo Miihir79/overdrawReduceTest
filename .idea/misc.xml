@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.186" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/drawable/ic_lesson_disabled_tick.xml" value="0.186" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/drawable/round_rect_default.xml" value="0.186" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/drawable/rounded_grey_button_bg.xml" value="0.186" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/drawable/rounded_primary_button_bg.xml" value="0.186" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/drawable/rounded_state_button_bg.xml" value="0.186" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/layout/activity_main.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/layout/lesson_progress_view.xml" value="0.23802083333333332" />
+        <entry key="..\:/Users/Mihir Shah/overdrawReduceTest/app/src/main/res/layout/test.xml" value="0.23697916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
