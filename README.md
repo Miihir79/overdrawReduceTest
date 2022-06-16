@@ -1,5 +1,5 @@
 # overdrawReduceTest
-In this project I aimed to reduce the unecessary re-drawing of certain sections of our screen, thus improving the overall performance of the app.
+In this project I aimed to reduce the unnecessary re-drawing of certain sections of our screen, thus improving the overall performance of the app.
 ### What is Overdraw:
 Overdraw occurs when your app draws the same pixel more than once within the same frame. read more about it <a href="https://developer.android.com/topic/performance/rendering/inspect-gpu-rendering#debug_overdraw"> here</a>. <br>
 #### Here are some samples of howmuch a single line of code can effect redraws:
