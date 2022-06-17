@@ -25,6 +25,9 @@ window.setBackgroundDrawable(null)
 ```
 Basically setting the background to null will make the window be opaque thus making less pixels render every time.
 
+### How to check for overdraw?
+Tap on the buildnumber for 7 times and unlock the developer options. Inside the developer options, you will find an setting named:<br> Debug GPU overdraw -> Show overdraw areas.
+
 ## Author
 <a href="https://github.com/Miihir79">***Mihir Shah***</a> <br>
-If you know more ways to make overdraw even lesser, please feel free to contribute!
+If you know more ways to optimize overdraw, please feel free to contribute!
